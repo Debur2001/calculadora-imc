@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC!</string>
+    <string name="hi_radiobutton">olá RadioButton</string>
+    <string name="hi_checkbox">olá Checkbox</string>
+</resources>
